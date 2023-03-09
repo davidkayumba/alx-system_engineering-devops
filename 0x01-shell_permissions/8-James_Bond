@@ -1,0 +1,3 @@
+#!/bin/bash
+chown 007 hello
+

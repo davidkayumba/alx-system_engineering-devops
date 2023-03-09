@@ -1,0 +1,3 @@
+#!/bin/bash
+chown 753 hello
+

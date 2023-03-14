@@ -1,2 +1,2 @@
 #!/bin/bash
-cnfgr - - | phg -s1
+paste - - | phg -s1
